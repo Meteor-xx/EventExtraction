@@ -8,11 +8,12 @@ This is a code implementation of EMNLP2018-JMEE
 * Changing the envs' version with the latest of py=3.9/torch/...
 * Write the script of data preprocess with StanfordNLP that mentioned in the paper.
 # Requirements
-torch==1.13.0
-torchtext==0.14.0
-numpy
-tensorboardX
-seqeval
+* python==3.9.13
+* pytorch==1.13.0
+* torchtext==0.14.0
+* numpy==1.23.3
+* tensorboardX==2.2
+* seqeval==1.2.2
 # Reference
 ```bibtex
 @inproceedings{DBLP:conf/emnlp/LiuLH18,
